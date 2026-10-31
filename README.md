@@ -1,11 +1,12 @@
-# https-github.com-shresthasarkar-ds
 <div align="center">
+
+<img src="assets/banner.png" alt="Shrestha Sarkar - Profile Banner" width="100%">
 
 # Hi, I'm Shrestha Sarkar 👋
 
 **Business & Data Analyst · Finance + Analytics · SQL · Python · R · Power BI · Tableau**
 
-📍 Bengaluru, India &nbsp;|&nbsp; 🎓 PGDM (Finance & Business Analytics), ISBR B School &nbsp;|&nbsp; 🗣️ Bengali · English · Hindi
+📍 Bengaluru, India &nbsp;|&nbsp; 🎓 PGDM (Finance & Business Analytics), B.Sc. (Mathematics) &nbsp;|&nbsp; 🗣️ Bengali · English · Hindi
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-shrestha--sarkar-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shrestha-sarkar)
 [![Email](https://img.shields.io/badge/Email-sarkarshrestha88%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:sarkarshrestha88@gmail.com)
@@ -17,7 +18,7 @@
 
 ## 👩‍💻 About Me
 
-I'm a PGDM (Finance & Business Analytics) student at ISBR B School (CGPA 8.7) with a B.Sc. (Hons.) in Mathematics. I build statistical and machine learning models, SQL queries and Power BI / Tableau dashboards to turn financial and survey data into decisions.
+I'm a PGDM (Finance & Business Analytics) student with a B.Sc. (Hons.) in Mathematics. I build statistical and machine learning models, SQL queries and Power BI / Tableau dashboards to turn financial and survey data into decisions.
 
 - 📊 Built a financial-distress classifier with **87.6% accuracy and 0.94 AUC**
 - 🗄️ Designed a SQL Server data warehouse with ETL, data models and an analytics layer
@@ -31,14 +32,28 @@ I'm a PGDM (Finance & Business Analytics) student at ISBR B School (CGPA 8.7) wi
 
 ## 🛠️ Tech Stack
 
-![SQL Server](https://img.shields.io/badge/SQL%20Server-T--SQL-CC2927?logo=microsoftsqlserver&logoColor=white)
-![Python](https://img.shields.io/badge/Python-NumPy%20%7C%20Pandas-3776AB?logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-ggplot2%20%7C%20tidyverse-276DC3?logo=r&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-DAX-F2C811?logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-Dashboards-E97627?logo=tableau&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-Advanced-217346?logo=microsoftexcel&logoColor=white)
-![SPSS](https://img.shields.io/badge/SPSS-Statistics-052FAD?logo=ibm&logoColor=white)
-![Git](https://img.shields.io/badge/Git-GitHub-F05032?logo=git&logoColor=white)
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="110"><img src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" width="44" height="44" alt="SQL Server"><br><sub>SQL Server</sub></td>
+    <td align="center" width="110"><img src="https://cdn.simpleicons.org/python/3776AB" width="44" height="44" alt="Python"><br><sub>Python</sub></td>
+    <td align="center" width="110"><img src="https://cdn.simpleicons.org/r/276DC3" width="44" height="44" alt="R"><br><sub>R</sub></td>
+    <td align="center" width="110"><img src="https://cdn.simpleicons.org/powerbi/F2C811" width="44" height="44" alt="Power BI"><br><sub>Power BI</sub></td>
+    <td align="center" width="110"><img src="https://cdn.simpleicons.org/tableau/E97627" width="44" height="44" alt="Tableau"><br><sub>Tableau</sub></td>
+    <td align="center" width="110"><img src="https://cdn.simpleicons.org/microsoftexcel/217346" width="44" height="44" alt="Excel"><br><sub>Excel</sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="110"><img src="https://cdn.simpleicons.org/numpy/013243" width="44" height="44" alt="NumPy"><br><sub>NumPy</sub></td>
+    <td align="center" width="110"><img src="https://cdn.simpleicons.org/pandas/150458" width="44" height="44" alt="Pandas"><br><sub>Pandas</sub></td>
+    <td align="center" width="110"><img src="https://cdn.simpleicons.org/matplotlib" width="44" height="44" alt="Matplotlib"><br><sub>Matplotlib</sub></td>
+    <td align="center" width="110"><img src="https://cdn.simpleicons.org/jupyter/F37626" width="44" height="44" alt="Jupyter"><br><sub>Jupyter</sub></td>
+    <td align="center" width="110"><img src="https://cdn.simpleicons.org/git/F05032" width="44" height="44" alt="Git"><br><sub>Git</sub></td>
+    <td align="center" width="110"><img src="https://cdn.simpleicons.org/github/181717" width="44" height="44" alt="GitHub"><br><sub>GitHub</sub></td>
+  </tr>
+</table>
+
+</div>
 
 ## 🚀 Featured Projects
 
@@ -46,6 +61,7 @@ I'm a PGDM (Finance & Business Analytics) student at ISBR B School (CGPA 8.7) wi
 |---|---|---|
 | [**SQL Data Warehouse**](https://github.com/shresthasarkar-ds/REPO-NAME) | Modern data warehouse with ETL to load, clean and transform raw data, plus data models for reporting | T-SQL, SQL Server |
 | [**SQL Exploratory Data Analysis**](https://github.com/shresthasarkar-ds/REPO-NAME) | Change-over-time, cumulative, segmentation and part-to-whole analysis using window functions and CTEs | T-SQL |
+| [**Python Mini Projects**](https://github.com/shresthasarkar-ds/REPO-NAME) | Small hands-on projects in data analysis and visualisation | Python, Pandas, NumPy, Matplotlib, Seaborn |
 | [**Monte Carlo Stock & Portfolio Simulator**](https://github.com/shresthasarkar-ds/REPO-NAME) | Simulates stock price paths and portfolio outcomes to show return range and downside risk | Python, NumPy, Matplotlib |
 | [**EUR/USD Forex Analysis & Prediction**](https://github.com/shresthasarkar-ds/REPO-NAME) | Analysis and prediction of EUR/USD price movements with notebook, dataset and report | Python, Jupyter |
 
@@ -77,13 +93,18 @@ I'm a PGDM (Finance & Business Analytics) student at ISBR B School (CGPA 8.7) wi
 
 ## 🖼️ Screenshots
 
-| Power BI – Financial Distress Dashboard | Tableau Dashboard |
-|:---:|:---:|
-| ![Power BI dashboard](screenshots/powerbi-dashboard.png) | ![Tableau dashboard](screenshots/tableau-dashboard.png) |
+<div align="center">
 
-| Monte Carlo Simulation | SQL Analysis Output |
-|:---:|:---:|
-| ![Monte Carlo](screenshots/monte-carlo.png) | ![SQL output](screenshots/sql-analysis.png) |
+| Power BI – Financial Distress Dashboard |
+
+<img width="1311" height="732" alt="Financial Distress Dashboard" src="https://github.com/user-attachments/assets/2260e282-d6f8-4563-a14b-15e204ae8649" />
+
+
+| Monte Carlo Simulation |
+
+<img width="712" height="393" alt="Monte_Carlo_Stock_Price_Simulation" src="https://github.com/user-attachments/assets/bb859478-04a6-488b-b9a2-e3cf2638c7cd" />
+
+</div>
 
 ## 📫 Let's Connect
 
