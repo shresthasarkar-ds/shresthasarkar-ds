@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.png" alt="Shrestha Sarkar - Profile Banner" width="100%">
+<img width="1834" height="938" alt="Make your README" src="https://github.com/user-attachments/assets/ba4b6aa6-ab03-49ed-8859-cde3c7805345" />
 
 # Hi, I'm Shrestha Sarkar 👋
 
@@ -30,28 +30,24 @@ I'm a PGDM (Finance & Business Analytics) student with a B.Sc. (Hons.) in Mathem
 > 🟢 **Open to entry-level Business Analyst / Data Analyst opportunities.**
 > 🔭 Currently focused on SQL data engineering, financial analytics and publishing more projects here.
 
+
 ## 🛠️ Tech Stack
 
 <div align="center">
 
-<table>
-  <tr>
-    <td align="center" width="110"><img src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" width="44" height="44" alt="SQL Server"><br><sub>SQL Server</sub></td>
-    <td align="center" width="110"><img src="https://cdn.simpleicons.org/python/3776AB" width="44" height="44" alt="Python"><br><sub>Python</sub></td>
-    <td align="center" width="110"><img src="https://cdn.simpleicons.org/r/276DC3" width="44" height="44" alt="R"><br><sub>R</sub></td>
-    <td align="center" width="110"><img src="https://cdn.simpleicons.org/powerbi/F2C811" width="44" height="44" alt="Power BI"><br><sub>Power BI</sub></td>
-    <td align="center" width="110"><img src="https://cdn.simpleicons.org/tableau/E97627" width="44" height="44" alt="Tableau"><br><sub>Tableau</sub></td>
-    <td align="center" width="110"><img src="https://cdn.simpleicons.org/microsoftexcel/217346" width="44" height="44" alt="Excel"><br><sub>Excel</sub></td>
-  </tr>
-  <tr>
-    <td align="center" width="110"><img src="https://cdn.simpleicons.org/numpy/013243" width="44" height="44" alt="NumPy"><br><sub>NumPy</sub></td>
-    <td align="center" width="110"><img src="https://cdn.simpleicons.org/pandas/150458" width="44" height="44" alt="Pandas"><br><sub>Pandas</sub></td>
-    <td align="center" width="110"><img src="https://cdn.simpleicons.org/matplotlib" width="44" height="44" alt="Matplotlib"><br><sub>Matplotlib</sub></td>
-    <td align="center" width="110"><img src="https://cdn.simpleicons.org/jupyter/F37626" width="44" height="44" alt="Jupyter"><br><sub>Jupyter</sub></td>
-    <td align="center" width="110"><img src="https://cdn.simpleicons.org/git/F05032" width="44" height="44" alt="Git"><br><sub>Git</sub></td>
-    <td align="center" width="110"><img src="https://cdn.simpleicons.org/github/181717" width="44" height="44" alt="GitHub"><br><sub>GitHub</sub></td>
-  </tr>
-</table>
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
 
@@ -59,11 +55,11 @@ I'm a PGDM (Finance & Business Analytics) student with a B.Sc. (Hons.) in Mathem
 
 | Project | What it does | Tools |
 |---|---|---|
-| [**SQL Data Warehouse**](https://github.com/shresthasarkar-ds/REPO-NAME) | Modern data warehouse with ETL to load, clean and transform raw data, plus data models for reporting | T-SQL, SQL Server |
+| [**SQL Data Warehouse**](https://github.com/shresthasarkar-ds/Sql-data-warehouse-project) | Modern data warehouse with ETL to load, clean and transform raw data, plus data models for reporting | T-SQL, SQL Server |
 | [**SQL Exploratory Data Analysis**](https://github.com/shresthasarkar-ds/REPO-NAME) | Change-over-time, cumulative, segmentation and part-to-whole analysis using window functions and CTEs | T-SQL |
 | [**Python Mini Projects**](https://github.com/shresthasarkar-ds/REPO-NAME) | Small hands-on projects in data analysis and visualisation | Python, Pandas, NumPy, Matplotlib, Seaborn |
 | [**Monte Carlo Stock & Portfolio Simulator**](https://github.com/shresthasarkar-ds/REPO-NAME) | Simulates stock price paths and portfolio outcomes to show return range and downside risk | Python, NumPy, Matplotlib |
-| [**EUR/USD Forex Analysis & Prediction**](https://github.com/shresthasarkar-ds/REPO-NAME) | Analysis and prediction of EUR/USD price movements with notebook, dataset and report | Python, Jupyter |
+| [**EUR/USD Forex Analysis & Prediction**](https://github.com/shresthasarkar-ds/REPO-NAME) | Analysis and prediction of EUR/USD price movements with notebook, dataset and report | Python, Pandas, Matplotlib, Colab |
 
 **Academic highlights**
 
@@ -96,13 +92,18 @@ I'm a PGDM (Finance & Business Analytics) student with a B.Sc. (Hons.) in Mathem
 <div align="center">
 
 | Power BI – Financial Distress Dashboard |
+|:---:|:---:|
 
-<img width="1311" height="732" alt="Financial Distress Dashboard" src="https://github.com/user-attachments/assets/2260e282-d6f8-4563-a14b-15e204ae8649" />
+<img width="1311" height="732" alt="Financial Distress Dashboard" src="https://github.com/user-attachments/assets/93e7eaea-2328-4845-9543-8b68a70902ee" />
 
 
 | Monte Carlo Simulation |
+|:---:|:---:|
 
-<img width="712" height="393" alt="Monte_Carlo_Stock_Price_Simulation" src="https://github.com/user-attachments/assets/bb859478-04a6-488b-b9a2-e3cf2638c7cd" />
+<img width="683" height="517" alt="EUR_USD_close_price_trend" src="https://github.com/user-attachments/assets/09cdfda5-0fc7-4afe-8256-b82288dde944" />
+
+
+📥 [Download the Power BI file (.pbix)](screenshots/Financial_Distress_Dashboard.pbix)
 
 </div>
 
@@ -115,3 +116,4 @@ I'm happy to talk about analytics, finance, and entry-level opportunities. Reach
 ⭐ Thanks for visiting my profile!
 
 </div>
+
