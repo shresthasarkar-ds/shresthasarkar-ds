@@ -67,16 +67,6 @@ I'm a PGDM (Finance & Business Analytics) student with a B.Sc. (Hons.) in Mathem
 - **Health Insurance Adoption Study** – survey of 65 respondents analysed with chi-square, Spearman correlation and logistic regression; income and employment status were significantly linked to ownership.
 - **COVID-19 SEIQR Epidemic Model** – 5-compartment ODE model with R₀ derivation, stability and bifurcation analysis, validated on India's 2020-21 data.
 
-## 📈 GitHub Stats & Contribution Activity
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shresthasarkar-ds&show_icons=true&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shresthasarkar-ds&layout=compact&hide_border=true)
-
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=shresthasarkar-ds&hide_border=true&area=true)
-
-</div>
 
 ## 🏅 Achievements & Badges
 
@@ -97,13 +87,14 @@ I'm a PGDM (Finance & Business Analytics) student with a B.Sc. (Hons.) in Mathem
 <img width="1311" height="732" alt="Financial Distress Dashboard" src="https://github.com/user-attachments/assets/93e7eaea-2328-4845-9543-8b68a70902ee" />
 
 
+
+
 | Monte Carlo Simulation |
 |:---:|:---:|
 
 <img width="683" height="517" alt="EUR_USD_close_price_trend" src="https://github.com/user-attachments/assets/09cdfda5-0fc7-4afe-8256-b82288dde944" />
 
 
-📥 [Download the Power BI file (.pbix)](screenshots/Financial_Distress_Dashboard.pbix)
 
 </div>
 
