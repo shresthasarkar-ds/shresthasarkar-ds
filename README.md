@@ -56,10 +56,10 @@ I'm a PGDM (Finance & Business Analytics) student with a B.Sc. (Hons.) in Mathem
 | Project | What it does | Tools |
 |---|---|---|
 | [**SQL Data Warehouse**](https://github.com/shresthasarkar-ds/Sql-data-warehouse-project) | Modern data warehouse with ETL to load, clean and transform raw data, plus data models for reporting | T-SQL, SQL Server |
-| [**SQL Exploratory Data Analysis**](https://github.com/shresthasarkar-ds/REPO-NAME) | Change-over-time, cumulative, segmentation and part-to-whole analysis using window functions and CTEs | T-SQL |
-| [**Python Mini Projects**](https://github.com/shresthasarkar-ds/REPO-NAME) | Small hands-on projects in data analysis and visualisation | Python, Pandas, NumPy, Matplotlib, Seaborn |
-| [**Monte Carlo Stock & Portfolio Simulator**](https://github.com/shresthasarkar-ds/REPO-NAME) | Simulates stock price paths and portfolio outcomes to show return range and downside risk | Python, NumPy, Matplotlib |
-| [**EUR/USD Forex Analysis & Prediction**](https://github.com/shresthasarkar-ds/REPO-NAME) | Analysis and prediction of EUR/USD price movements with notebook, dataset and report | Python, Pandas, Matplotlib, Colab |
+| [**SQL Exploratory Data Analysis**](https://github.com/shresthasarkar-ds/sql-exploratory-data-analysis-project) | Change-over-time, cumulative, segmentation and part-to-whole analysis using window functions and CTEs | T-SQL, SQL Server |
+| [**Python Mini Projects**]() | Small hands-on projects in data analysis and visualisation | Python | 
+| [**Monte Carlo Stock & Portfolio Simulator**]() | Simulates stock price paths and portfolio outcomes to show return range and downside risk | Python, NumPy, Matplotlib, Colab |
+| [**EUR/USD Forex Analysis & Prediction**]() | Analysis and prediction of EUR/USD price movements with notebook, dataset and report | Python, Pandas, Matplotlib, Colab |
 
 **Academic highlights**
 
